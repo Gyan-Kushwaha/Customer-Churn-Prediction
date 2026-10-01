@@ -6,7 +6,7 @@ This project uses the IBM Telco Customer Churn dataset and follows a full ML wor
 
 ## Live Demo
 
-[Open the deployed app]([https://customer-churn-prediction-gyan.streamlit.app/])
+[Open the deployed app](https://customer-churn-prediction-gyan.streamlit.app/)
 
 ## Overview
 
