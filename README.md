@@ -4,6 +4,10 @@ A machine learning project designed to predict whether a telecom customer is lik
 
 This project uses the IBM Telco Customer Churn dataset and follows a full ML workflow: data cleaning, exploratory data analysis, preprocessing, model comparison, threshold tuning, explainability, and deployment via a Streamlit app.
 
+## Live Demo
+
+[Open the deployed app]([https://customer-churn-prediction-gyan.streamlit.app/])
+
 ## Overview
 
 The app accepts customer attributes such as:
